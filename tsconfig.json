@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "ES2020", 
+    "module": "ES6", // 模块化方式
+    "rootDir": "src", // 根目录
+    "outDir": "dist", // 输出目录
+    "strict": true, // 严格模式
+    "esModuleInterop": true, // 支持 es 模块
+    "skipLibCheck": true, // 跳过库检查
+    "lib": ["DOM"], // 库
+    "checkJs": true, // 检查js文件
+    "allowJs": true, // 允许使用js文件
+    "declaration": true, // 生成声明文件
+    "declarationDir": "dist/typings", // 声明文件输出目录
+    "declarationMap": true, // 生成声明文件映射文件
+    "sourceMap": true, // 生成源码映射文件
+    "strictNullChecks": false, // 严格空检查
+    "noImplicitAny": true // 禁止隐式 any
+  },
+  "include": ["src/**/*"], // 包含的文件
+  "exclude": ["node_modules"] // 排除的文件
+}

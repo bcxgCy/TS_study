@@ -1,0 +1,14 @@
+{
+  "name": "TS_study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "",
+  "author": "yua.chen <yu824562457@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
