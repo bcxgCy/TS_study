@@ -2,7 +2,7 @@
   "name": "TS_study",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "",
+  "repository": "https://github.com/bcxgCy/TS_study.git",
   "author": "yua.chen <yu824562457@qq.com>",
   "license": "MIT",
   "scripts": {
